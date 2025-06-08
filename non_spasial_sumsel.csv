@@ -1,0 +1,18 @@
+ID,Lokasi,Curah Hujan (mm),Ketinggian (mdpl),Kemiringan Lereng (%),Penggunaan Lahan,Pernah Banjir,Tahun Kejadian
+1,Kota Palembang,357,144,6.0,Permukiman,1,2023
+2,Kota Lubuklinggau,341,113,18.1,Permukiman,1,2023
+3,Kota Prabumulih,485,462,19.3,Sawah,0,-
+4,Kota Pagar Alam,224,218,25.6,Lahan Terbuka,0,2023
+5,Kabupaten Banyuasin,410,7,29.3,Hutan Sekunder,1,2022
+6,Kabupaten Empat Lawang,285,320,20.3,Sawah,1,-
+7,Kabupaten Lahat,207,130,22.9,Hutan Sekunder,1,2021
+8,Kabupaten Muara Enim,354,315,22.2,Lahan Terbuka,0,2021
+9,Kabupaten Musi Banyuasin,246,456,2.1,Permukiman,1,-
+10,Kabupaten Musi Rawas,455,459,2.1,Permukiman,1,2022
+11,Kabupaten Musi Rawas Utara,368,232,0.5,Hutan Sekunder,0,-
+12,Kabupaten Ogan Ilir,328,212,12.1,Hutan Sekunder,0,2022
+13,Kabupaten Ogan Komering Ilir,390,493,10.7,Hutan Sekunder,0,2022
+14,Kabupaten Ogan Komering Ulu,380,281,24.7,Lahan Terbuka,0,2023
+15,Kabupaten Ogan Komering Ulu Selatan,457,8,7.9,Sawah,1,-
+16,Kabupaten Ogan Komering Ulu Timur,466,381,22.9,Lahan Terbuka,0,2023
+17,Kabupaten Penukal Abab Lematang Ilir,486,95,27.6,Hutan Sekunder,1,2022
